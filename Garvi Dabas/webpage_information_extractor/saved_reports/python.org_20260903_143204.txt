@@ -1,0 +1,181 @@
+==================================================
+WEBPAGE EXTRACTED INFORMATION REPORT
+==================================================
+
+URL:
+https://www.python.org
+
+TITLE:
+Welcome to Python.org
+
+--------------------------------------------------
+HEADINGS
+--------------------------------------------------
+1. Intuitive Interpretation
+2. Compound Data Types
+3. All the Flow You’d Expect
+4. Functions Defined
+5. Quick & Easy to Learn
+6. Get Started
+7. Download
+8. Docs
+9. Jobs
+10. Latest News
+11. Upcoming Events
+12. Success Stories
+13. Use Python for…
+14. >>>Python Software Foundation
+
+--------------------------------------------------
+LINKS
+--------------------------------------------------
+1. https://github.com/python/pythondotorg/issues
+2. https://www.tornadoweb.org/
+3. https://www.tensorflow.org/
+4. //docs.python.org/3/tutorial/
+5. /downloads/release/python-3147/
+6. //jobs.python.org
+7. https://pypi.org/
+8. /psf/conduct/
+9. /downloads/source/
+10. /success-stories/using-python-to-build-a-solution-for-instant-tokenized-real-estate-redemptions/
+11. /about/apps/
+12. //docs.python.org/3/tutorial/controlflow.html
+13. https://fastapi.tiangolo.com/
+14. https://docs.python.org/3/license.html
+15. https://pandas.pydata.org/
+16. /community/irc/
+17. https://riverbankcomputing.com/software/pyqt/intro
+18. https://buildbot.net/
+19. https://wiki.python.org/moin/BeginnersGuide
+20. https://peps.python.org
+21. https://www.roundup-tracker.org/
+22. https://xon.sh/
+23. /download/other/
+24. /success-stories/
+25. /about/
+26. https://fosstodon.org/@ThePSF
+27. /events/python-events/past/
+28. https://www.linkedin.com/company/python-software-foundation/
+29. /success-stories/category/government/
+30. //docs.python.org/3/tutorial/controlflow.html#defining-functions
+31. /downloads/
+32. /
+33. /community/diversity/
+34. https://saltproject.io/
+35. https://litestar.dev/
+36. /success-stories/category/engineering/
+37. https://github.com/python/cpython/issues
+38. https://docs.python.org/3/faq/
+39. /about/apps
+40. /psf/donations/
+41. /about/quotes/
+42. /about/legal/
+43. https://pyfound.blogspot.com/2026/08/ramya-ravi-2026-psf-board-election.html
+44. https://docs.python.org
+45. /events/python-events/2202/
+46. /events/python-events/2136/
+47. https://scikit-learn.org/
+48. https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+49. https://status.python.org/
+50. https://devguide.python.org/
+51. https://policies.python.org/python.org/Privacy-Notice/
+52. /about/help/
+53. /doc/essays/
+54. https://ipython.org/
+55. /blogs/
+56. /events/python-user-group/past/
+57. https://wiki.python.org/moin/
+58. /success-stories/category/arts/
+59. /psf/
+60. https://flask.palletsprojects.com/
+61. /success-stories/category/education/
+62. /psf/community-stories/
+63. #top
+64. https://wiki.qt.io/Qt_for_Python
+65. https://blog.python.org
+66. /community/logos/
+67. https://translations.python.org/
+68. #site-map
+69. https://en.wikipedia.org/wiki/Tkinter
+70. http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+71. /psf/membership/
+72. https://huggingface.co/docs/transformers/
+73. /dev/security/
+74. https://trac.edgewall.org/
+75. /psf-landing/
+76. /community/workshops/
+77. https://docs.anthropic.com/
+78. #python-network
+79. /downloads/windows/
+80. https://www.wxpython.org/
+81. /events/python-events/2187/
+82. /success-stories/category/scientific/
+83. /downloads/ios/
+84. /events/python-events/
+85. https://trypyramid.com/
+86. https://www.djangoproject.com/
+87. https://donate.python.org/
+88. /dev/
+89. /psf/get-involved/
+90. /success-stories/category/software-development/
+91. https://dearpygui.readthedocs.io/en/latest/
+92. /downloads/macos/
+93. /psf/annual-report/2024/
+94. /doc/av
+95. /shell/
+96. /events/calendars/
+97. /download/alternatives
+98. https://blog.python.org/2026/09/python-3150-rc2/
+99. https://planetpython.org/
+100. /events/python-user-group/2182/
+101. /psf/newsletter/
+102. https://pyfound.blogspot.com/2026/09/inaugural-python-packaging-council.html
+103. /community/
+104. https://kivy.org/
+105. /community/forums/
+106. https://scipy.org/
+107. /events/python-events/2159/
+108. https://bottlepy.org
+109. #
+110. https://pytorch.org/
+111. /events/python-user-group/
+112. //docs.python.org/3/tutorial/introduction.html#lists
+113. https://docs.ansible.com/
+114. /community/lists/
+115. https://twitter.com/ThePSF
+116. /downloads/android/
+117. https://pygobject.gnome.org/
+118. #content
+119. /doc/
+120. /success-stories/category/business/
+121. https://www.python.org/psf/
+122. javascript:;
+123. https://www.openstack.org/
+124. /dev/core-mentorship/
+125. https://langchain.com/
+126. https://wiki.python.org/moin/PythonBooks
+127. /jobs/
+128. https://pycon.blogspot.com/
+129. https://mail.python.org/mailman/listinfo/python-dev
+130. /community/awards
+131. https://pyfound.blogspot.com/2026/09/the-2026-psf-board-election-is-open.html
+132. /about/gettingstarted/
+133. https://pyfound.blogspot.com/2026/08/kojo-idrissa-2026-psf-board-election.html
+134. /community/sigs/
+135. /events/
+136. https://pyfound.blogspot.com
+
+--------------------------------------------------
+SUMMARY
+--------------------------------------------------
+
+URL: https://www.python.org
+TITLE: Welcome to Python.org
+Total Headings: 14
+Total Links: 215
+Total Unique Links: 136
+
+==================================================
+REPORT GENERATED SUCCESSFULLY
+==================================================

@@ -1,0 +1,39 @@
+==================================================
+WEBPAGE EXTRACTED INFORMATION REPORT
+==================================================
+
+URL:
+https://uims.cuchd.in/
+
+TITLE:
+Welcome to Chandigarh University Information Management System
+
+--------------------------------------------------
+HEADINGS
+--------------------------------------------------
+1. Student/Parent Login
+2. LMS Login
+3. Staff Login
+4. Admission Login
+
+--------------------------------------------------
+LINKS
+--------------------------------------------------
+1. https://staff.cuchd.in
+2. https://lms.cuchd.in
+3. https://students.cuchd.in
+4. https://admissions.cuchd.in
+5. https://forecast7.com/en/30d7776d56/gharuan/
+
+--------------------------------------------------
+SUMMARY
+--------------------------------------------------
+
+URL: https://uims.cuchd.in/
+TITLE: Welcome to Chandigarh University Information Management System
+Total Headings: 4
+Total Links: 5
+
+==================================================
+REPORT GENERATED SUCCESSFULLY
+==================================================

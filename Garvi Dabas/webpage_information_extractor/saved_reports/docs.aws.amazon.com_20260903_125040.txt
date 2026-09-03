@@ -1,0 +1,68 @@
+==================================================
+WEBPAGE EXTRACTED INFORMATION REPORT
+==================================================
+
+URL:
+https://docs.aws.amazon.com/ec2
+
+TITLE:
+No title found.
+
+--------------------------------------------------
+HEADINGS
+--------------------------------------------------
+1. Amazon Elastic Compute Cloud Documentation
+2. Amazon EC2
+3. Amazon EC2 User Guide
+4. Amazon EC2 Instance Types
+5. AWS Nitro Enclaves User Guide
+6. AWS Windows AMIs
+7. Develop for Amazon EC2
+8. Amazon EC2 Developer Guide
+9. Amazon EC2 API Reference
+10. EC2 Instance Connect API Reference
+11. AWS CLI commands for Amazon EC2
+12. CloudFormation resources for Amazon EC2
+13. Migrate to Amazon EC2
+14. VM Import/Export User Guide
+15. Workloads on Amazon EC2
+16. User Guide for Microsoft SQL Server on Amazon EC2
+17. Best Practices
+18. Architecture Center: Compute and HPC Best Practices
+19. Related Links
+
+--------------------------------------------------
+LINKS
+--------------------------------------------------
+1. /ec2-instance-connect/latest/APIReference/
+2. /AWSEC2/latest/UserGuide/
+3. /ec2/latest/instancetypes/
+4. https://aws.amazon.com/architecture/compute-hpc/?docec2_rl1
+5. /AWSEC2/latest/APIReference/
+6. /vm-import/latest/userguide/
+7. https://aws.amazon.com/tools/
+8. http://docs.aws.amazon.com/general/latest/gr/glos-chap.html
+9. /ec2/latest/devguide/
+10. /ec2/latest/windows-ami-reference/
+11. /cli/latest/reference/ec2/
+12. https://aws.amazon.com/whitepapers/
+13. /AWSCloudFormation/latest/UserGuide/AWS_EC2.html
+14. https://aws.amazon.com/documentation/gettingstarted/
+15. /enclaves/latest/user/
+16. https://aws.amazon.com/solutions/case-studies/
+17. /sql-server-ec2/latest/userguide
+18. https://aws.amazon.com/training/
+
+--------------------------------------------------
+SUMMARY
+--------------------------------------------------
+
+URL: https://docs.aws.amazon.com/ec2
+TITLE: No title found.
+Total Headings: 19
+Total Links: 19
+Total Unique Links: 18
+
+==================================================
+REPORT GENERATED SUCCESSFULLY
+==================================================

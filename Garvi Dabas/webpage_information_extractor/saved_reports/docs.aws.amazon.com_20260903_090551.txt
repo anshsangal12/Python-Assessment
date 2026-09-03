@@ -1,0 +1,61 @@
+==================================================
+WEBPAGE EXTRACTED INFORMATION REPORT
+==================================================
+
+URL:
+https://docs.aws.amazon.com/rds/
+
+TITLE:
+No title found.
+
+--------------------------------------------------
+HEADINGS
+--------------------------------------------------
+1. Amazon RDS and Aurora Documentation
+2. User Guides
+3. References
+4. Release Notes
+5. Best Practices
+6. Related Links
+
+--------------------------------------------------
+LINKS
+--------------------------------------------------
+1. https://aws.amazon.com/tools/
+2. https://aws.amazon.com/architecture/databases/?docrds_rl1
+3. /aurora-dsql/latest/userguide/
+4. /AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/
+5. /AmazonRDS/latest/gettingstartedguide/
+6. /cli/latest/reference/rds/
+7. /AmazonRDS/latest/OracleReleaseNotes/
+8. /performance-insights/latest/APIReference/
+9. /AmazonRDS/latest/APIReference/
+10. http://docs.aws.amazon.com/general/latest/gr/glos-chap.html
+11. https://aws.amazon.com/training/
+12. /AmazonRDS/latest/UserGuide/
+13. /AmazonRDS/latest/AuroraMySQLReleaseNotes/
+14. https://aws.amazon.com/architecture/databases/
+15. https://aws.amazon.com/documentation/gettingstarted/
+16. https://aws.amazon.com/whitepapers/
+17. /cli/latest/reference/rds-data/
+18. http://docs.aws.amazon.com/general/latest/gr/Welcome.html
+19. /AmazonRDS/latest/AuroraUserGuide/
+20. /rds/latest/auroraextendedcontent/
+21. /cli/latest/reference/pi/
+22. /rdsdataservice/latest/APIReference/
+23. /AmazonRDS/latest/PostgreSQLReleaseNotes/
+24. https://aws.amazon.com/solutions/case-studies/
+
+--------------------------------------------------
+SUMMARY
+--------------------------------------------------
+
+URL:https://docs.aws.amazon.com/rds/
+TITLE: No title found.
+Total Headings: 6
+Total Links: 27
+Total Unique Links: 24
+
+==================================================
+REPORT GENERATED SUCCESSFULLY
+==================================================

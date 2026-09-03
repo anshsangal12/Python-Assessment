@@ -1,0 +1,56 @@
+==================================================
+WEBPAGE EXTRACTED INFORMATION REPORT
+==================================================
+
+URL:
+https://docs.aws.amazon.com/ec2
+
+TITLE:
+No title found.
+
+--------------------------------------------------
+HEADINGS
+--------------------------------------------------
+1. Amazon Elastic Compute Cloud Documentation
+2. Amazon EC2
+3. Develop for Amazon EC2
+4. Migrate to Amazon EC2
+5. Workloads on Amazon EC2
+6. Best Practices
+7. Related Links
+
+--------------------------------------------------
+LINKS
+--------------------------------------------------
+1. /ec2-instance-connect/latest/APIReference/
+2. /AWSCloudFormation/latest/UserGuide/AWS_EC2.html
+3. /ec2/latest/devguide/
+4. /AWSEC2/latest/UserGuide/
+5. /sql-server-ec2/latest/userguide
+6. http://docs.aws.amazon.com/general/latest/gr/glos-chap.html
+7. https://aws.amazon.com/whitepapers/
+8. /vm-import/latest/userguide/
+9. https://aws.amazon.com/tools/
+10. https://aws.amazon.com/solutions/case-studies/
+11. /AWSEC2/latest/APIReference/
+12. https://aws.amazon.com/architecture/compute-hpc/?docec2_rl1
+13. https://aws.amazon.com/training/
+14. https://aws.amazon.com/documentation/gettingstarted/
+15. /ec2/latest/instancetypes/
+16. /ec2/latest/windows-ami-reference/
+17. /cli/latest/reference/ec2/
+18. /enclaves/latest/user/
+
+--------------------------------------------------
+SUMMARY
+--------------------------------------------------
+
+URL: https://docs.aws.amazon.com/ec2
+TITLE: No title found.
+Total Headings: 7
+Total Links: 19
+Total Unique Links: 18
+
+==================================================
+REPORT GENERATED SUCCESSFULLY
+==================================================
