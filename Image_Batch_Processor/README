@@ -1,0 +1,43 @@
+Main.py
+   ↓
+Controls the application / user choices
+   │
+   ├── ImageReader
+   │      ↓
+   │   Finds images in the selected folder
+   │
+   ├── Imageinfo
+   │      ↓
+   │   Gets information about selected images
+   │
+   └── ImageProcessor       ← next part
+          ↓
+       Resize
+       Rotate
+       Crop
+
+   └── ImageConverter       ← later
+          ↓
+       JPG → PNG
+       PNG → JPG
+
+
+TEST 1  → Can it find the 4 images?
+TEST 2  → Does it ignore test.txt?
+TEST 4  → Does image information work?
+TEST 5  → Can I select one?
+TEST 6  → Can I select multiple?
+TEST 7  → Can I select all?
+TEST 8  → Does resize work?
+TEST 9  → Does rotate work?
+TEST 10 → Does crop work?
+TEST 11 → JPG → PNG
+TEST 12 → PNG → JPG
+TEST 13 → Does output folder get created?
+TEST 14 → Can it process multiple images?
+TEST 15 → Can it handle a bad image?
+TEST 16 → Does batch processing continue after failure?
+TEST 17 → What happens with invalid selection?
+TEST 18 → What happens with invalid operation?
+TEST 19 → Is the summary correct?
+TEST 20 → Does everything work together?
