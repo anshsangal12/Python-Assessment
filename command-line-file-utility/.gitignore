@@ -1,0 +1,14 @@
+.env
+.vscode/
+log_folder/
+*.log
+__pycache__/
+build/
+dist/
+errors/
+test/
+new_directory/
+dist/
+os_module_basic.ipynb
+file_tool.spec
+fileX.spec
