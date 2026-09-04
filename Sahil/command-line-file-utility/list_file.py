@@ -66,7 +66,7 @@ def list_and_dir(path:str=os.getcwd()):
     try:
       
       # Path validation
-      if os.path.isdir(path):
+      if not os.path.isdir(path):
           raise exceptions.NotADirectoryPath(path)
       
       # Iterate through the directory
